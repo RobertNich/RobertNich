@@ -1,16 +1,44 @@
-### Hi there 👋
+## Robert Nichols
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%F0%9F%94%A5;Rust+%F0%9F%A6%80;C%23+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-<!--
-**RobertNich/RobertNich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About</h3>
+I'm a front end stack developer with 1.5+ years experience. </br>
+I'm currently living in Australia.
 
-Here are some ideas to get you started:
+</br>
+</br>
+<h3 align="left">Langs, Libs, and frames</h3>
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/React-black?&style=for-the-badge&logo=react"
+        />
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Rust-black?&style=for-the-badge&logo=rust"
+        />
+    </a>
+    <a href="https://github.com/leptos-rs/leptos" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Leptos-black?&style=for-the-badge&logo=leptos"
+        />
+    </a>
+     <a href="https://www.typescriptlang.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Typescript-black?&style=for-the-badge&logo=typescript"
+        />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Dotnet-black?&style=for-the-badge&logo=dotnet"
+        />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/NodeJS-black?&style=for-the-badge&logo=node.js"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangarused&langs_count=10&theme=tokyonight" alt="kangarused"/></a></p>
