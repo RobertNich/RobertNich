@@ -3,7 +3,7 @@
 
 <h3 align="left">About</h3>
 I'm a front end developer with 1.5+ years experience. </br>
-Always curious and always learning.
+Always curious and always learning. </br>
 Currently living in Australia.
 
 </br>
