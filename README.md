@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%F0%9F%94%A5;Rust+%F0%9F%A6%80;C%23+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <h3 align="left">About</h3>
-I'm a front end stack developer with 1.5+ years experience. </br>
-I'm currently living in Australia.
+I'm a front end developer with 1.5+ years experience. </br>
+Always curious and always learning.
+Currently living in Australia.
 
 </br>
 </br>
